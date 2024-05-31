@@ -5,7 +5,7 @@
 
 - I am currently learning **WEB development basics**
 
-- I also support the Minecraft team [Mycelium](https://discord.gg/BpVCC7Xbpe)
+- I also support the Minecraft team [Mycelium](https://discord.gg/hw3RebAACz)
 
 - I am happy to help with questions about **Java - Minecraft plugin development**
 
