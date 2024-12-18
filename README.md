@@ -1,11 +1,7 @@
 <h1 align="center">Hey my name is Manduir</h1>
 <h3 align="center">A hobby java developer from Germany</h3>
 
-- I am currently working on the Minecraft network **Hytonix**
-
 - I am currently learning **WEB development basics**
-
-- I also support the Minecraft team [Mycelium](https://discord.gg/hw3RebAACz)
 
 - I am happy to help with questions about **Java - Minecraft plugin development**
 
