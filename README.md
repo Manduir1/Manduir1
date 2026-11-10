@@ -12,7 +12,7 @@
 I am a passionate developer focusing on the backend and gaming communities. When I'm not writing code or managing servers, I dedicate my time to helping others as a volunteer for the **Fire Department** (Freiwillige Feuerwehr) and the **THW** (Technisches Hilfswerk/German Federal Agency for Technical Relief). 🚒🚨
 
 - 🔭 **Currently working on:** Minecraft Plugins & Discord Bots (Java & Discord.js)
-- 🌱 **Currently learning:** PHP to expand my web development skills
+- 🌱 **Currently learning:** Nuxt.js to expand my web development skills
 - 🛠️ **Hobby:** Managing and optimizing server infrastructures
 - 🖥️ **IDE of choice:** JetBrains ecosystem all the way!
 - ⚡ **Fun fact:** I can fight bugs in my code AND actual fires!
